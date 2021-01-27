@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/kelvinbush/react-components/issues"
   },
-  "homepage": "https://github.com/kelvinbush/react-components#readme"
+  "homepage": "https://github.com/kelvinbush/react-components#readme",
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
